@@ -1,4 +1,4 @@
-package com.Testing_Java.JavaTest;
+package com.Testing_Java.JavaTest.util;
 
 public class PasswordUtil {
 
